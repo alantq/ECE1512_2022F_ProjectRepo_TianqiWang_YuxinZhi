@@ -130,3 +130,9 @@ dmypy.json
 
 #system file
 .DS_Store
+
+#dataset dir
+mnist_data/
+mnist_result/
+cifar_data/
+cifar_result/
